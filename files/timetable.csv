@@ -1,0 +1,71 @@
+day,class_id,period,subject,teacher_id
+Friday,3A,1,history,2
+Friday,3A,2,SEP,5
+Friday,3A,3,science,3
+Friday,3A,4,civic education,12
+Friday,3A,5,biology,11
+Friday,3A,6,physics,9
+Friday,3A,7,choice,7
+Thursday,3A,1,modern greek,8
+Thursday,3A,2,history,4
+Thursday,3A,3,civic education,12
+Thursday,3A,4,algebra,1
+Thursday,3A,5,english,2
+Thursday,3A,6,science,3
+Thursday,3A,7,physics,9
+Wendsday,3A,1,SEP,5
+Wendsday,3A,2,zone,6
+Wendsday,3A,3,modern greek,8
+Wendsday,3A,4,geometry,1
+Wendsday,3A,5,english,2
+Wendsday,3A,6,history,4
+Wendsday,3A,7,science,3
+Tuesday,3A,1,algebra,1
+Tuesday,3A,2,physics,9
+Tuesday,3A,3,religion studies,15
+Tuesday,3A,4,computer class,13
+Tuesday,3A,5,computer class,13
+Tuesday,3A,6,civic education,12
+Tuesday,3A,7,biology,11
+Monday,3A,1,research class,14
+Monday,3A,2,modern greek,8
+Monday,3A,3,history,4
+Monday,3A,4,SEP,5
+Monday,3A,5,zone,6
+Monday,3A,6,zone,6
+Monday,3A,7,modern greek,8
+Monday,2A,1,algebra,1
+Monday,2A,2,SEP,5
+Monday,2A,3,science,3
+Monday,2A,4,zone,6
+Monday,2A,5,zone,6
+Monday,2A,6,zone,6
+Monday,2A,7,choice,7
+Tuesday,2A,1,modern greek,8
+Tuesday,2A,2,physics,9
+Tuesday,2A,3,gym,10
+Tuesday,2A,4,choice,7
+Tuesday,2A,5,algebra,1
+Tuesday,2A,6,english,2
+Tuesday,2A,7,biology,11
+Wendsday,2A,1,civic education,12
+Wendsday,2A,2,modern greek,8
+Wendsday,2A,3,gym,10
+Wendsday,2A,4,research class,14
+Wendsday,2A,5,research class,14
+Wendsday,2A,6,choice,7
+Wendsday,2A,7,algebra,1
+Thursday,2A,1,computer class,13
+Thursday,2A,2,computer class,13
+Thursday,2A,3,physics,9
+Thursday,2A,4,choice,7
+Thursday,2A,5,modern greek,8
+Thursday,2A,6,modern greek,8
+Thursday,2A,7,english,2
+Friday,2A,1,choice,7
+Friday,2A,2,history,4
+Friday,2A,3,geometry,1
+Friday,2A,4,civic education,12
+Friday,2A,5,religion studies,15
+Friday,2A,6,SEP,5
+Friday,2A,7,choice,7
